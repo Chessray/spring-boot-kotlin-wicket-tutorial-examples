@@ -16,7 +16,7 @@ repositories {
 
 dependencies {
     constraints {
-        implementation("com.giffing.wicket.spring.boot.starter:wicket-spring-boot-starter:4.0.0")
+        implementation("com.giffing.wicket.spring.boot.starter:wicket-spring-boot-starter:4.1.1")
     }
 }
 
